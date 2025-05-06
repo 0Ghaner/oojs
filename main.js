@@ -45,13 +45,3 @@ const pessoa = {
     ehMaiorDeIdade: ehMaiorDeIdade,
     conhecimentos: conhecimentos,
 }
-
-console.log(typeof nome);
-console.log(typeof idade);
-console.log(typeof ehMaiorDeIdade);
-console.log(typeof conhecimentos);
-console.log(typeof pessoa);
-console.log(typeof carroDaMaria2);
-
-console.log(carroDaMaria2 instanceof Carro);
-console.log(conhecimentos instanceof Carro);
